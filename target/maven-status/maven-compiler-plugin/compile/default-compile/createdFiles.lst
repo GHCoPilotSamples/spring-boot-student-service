@@ -1,0 +1,5 @@
+com\samples\springboot\controller\StudentController.class
+com\samples\springboot\StudentServicesApplication.class
+com\samples\springboot\model\Course.class
+com\samples\springboot\service\StudentService.class
+com\samples\springboot\model\Student.class

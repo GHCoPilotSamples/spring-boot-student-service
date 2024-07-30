@@ -1,0 +1,4 @@
+com\samples\springboot\service\StudentServiceTest.class
+com\samples\springboot\controller\StudentControllerIT.class
+com\samples\springboot\controller\StudentControllerunitTest.class
+com\samples\springboot\StudentServiceApplicationTests.class
